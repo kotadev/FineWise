@@ -1,2 +1,2 @@
 # FineWise
-FineWise financial tracker and calculator =
+FineWise financial tracker and calculator
